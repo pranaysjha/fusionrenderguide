@@ -6,3 +6,5 @@ description: >-
 
 # Subsystem Renders
 
+![Basic Tetrix drivetrain by Andrew of 15887](../.gitbook/assets/jerseybot3%20%281%29.png)
+
