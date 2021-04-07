@@ -10,11 +10,9 @@ This guide was created by Andrew from FTC 15887, Benjamin from FTC 18219, and Pr
 
 If there is a topic that you feel should be addressed in this guide or a question that you would like answered, feel free to message us on the [**FTC Discord**](https://discord.gg/first-tech-challenge) ****or DM us:
 
-andreww\#8042
-
-donbongo\#0571
-
-psj\#9685
+* andreww\#8042
+* donbongo\#0571
+* psj\#9685
 
 
 
