@@ -1,6 +1,6 @@
 # Decals
 
-Decals are images that can be wrapped around the face of parts. Unlike HDRIs, standard image file types are accepted \(such as png and jpg\). Most of the decals you will need can be found in the [_Decal Library_](https://photos.google.com/share/AF1QipNS1p_h-UilCHEvSoTZNdxclRQBJGjViyh_1pqrRcx0o8R58EYXR95usjRIjo5KHQ?key=OTZDX0daejE2aDhvM1RqcWJCZi1iNks1LWpralVB). 
+Decals are images that can be wrapped around the face of parts. Unlike HDRIs, standard image file types are accepted \(such as png and jpg\). Most of the decals you will need can be found in the [**Decal Library**](https://photos.google.com/share/AF1QipNS1p_h-UilCHEvSoTZNdxclRQBJGjViyh_1pqrRcx0o8R58EYXR95usjRIjo5KHQ?key=OTZDX0daejE2aDhvM1RqcWJCZi1iNks1LWpralVB). 
 
 1. To attach a decal to your model, navigate to the "Insert" menu within the design studio, and select the first option, "Decal", from the drop-down menu.
 
@@ -15,7 +15,7 @@ Decals are images that can be wrapped around the face of parts. Unlike HDRIs, st
 ![Orienting and resizing the decal on the motor](../.gitbook/assets/5e3812ae3d86e30f76c625a99a71a79c.gif)
 
 {% hint style="info" %}
-"Chain faces" causes the decal to display on multiple faces which are "chained". While this is possibly desired for some niche usecases, it usually causes the decal to not be mapped properly, often distorting and seemingly clipping through faces.
+"Chain faces" causes the decal to display on multiple faces which are "chained". While this could be desirable for some niche use cases, it usually causes the decal to not be mapped properly, often distorting and seemingly clipping through faces.
 {% endhint %}
 
 
