@@ -8,7 +8,7 @@ The goal of this guide is to inform those who are seeking to learn the Fusion 36
 
 This guide was created by Andrew from FTC 15887, Benjamin from FTC 18219, and Pranay from FTC 16236. Big thanks to anyone who provided renders that were used throughout this guide and all of the other helpful individuals that made this possible.
 
-If there is a topic that you feel should be addressed in this guide or a question that you would like answered, feel free to message us on the [**FTC Discord**](https://discord.gg/first-tech-challenge) ****or DM us:
+If there is a topic that you feel should be addressed in this guide or a question that you would like answered, feel free to message us on the [**FTC Discord**](https://discord.gg/first-tech-challenge)**.**
 
 * andreww\#8042
 * donbongo\#0571
