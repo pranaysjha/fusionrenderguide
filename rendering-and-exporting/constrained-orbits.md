@@ -16,5 +16,5 @@ The free orbit menu is accessed at the view menu at the bottom, bringing up a fa
 The constrained orbit is especially useful for creating an angled render, such as the one below.
 {% endhint %}
 
-![Render by Benjamin from 18219](../.gitbook/assets/6wdpinkangled.png)
+![FTC 18219 Ultimate Goal 6 Wheel Drive](../.gitbook/assets/6wdpinkangled.png)
 
