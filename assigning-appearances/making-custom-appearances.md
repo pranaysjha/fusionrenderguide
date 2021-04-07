@@ -26,5 +26,3 @@ For certain appearances, we can change the reflectance, which affects the amount
 
 ![Timing belt pulley set to &quot;Plastic - Glossy \(Blue\)&quot; with reflectance increasing from left to right \(0.015, 0.053 \(default\), and 0.08 respectively\)](../.gitbook/assets/pull.png)
 
-
-

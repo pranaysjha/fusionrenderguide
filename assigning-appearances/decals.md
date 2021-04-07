@@ -16,3 +16,7 @@ description: Decals are images that can be wrapped around the face of parts.
 
 ![Orienting and resizing the decal on the motor](../.gitbook/assets/5e3812ae3d86e30f76c625a99a71a79c.gif)
 
+{% hint style="info" %}
+"Chain faces" causes the decal to display on multiple faces which are "chained". While this is possibly desired for some niche usecases, it usually causes the decal to not be mapped properly, often distorting and seemingly clipping through faces.
+{% endhint %}
+
