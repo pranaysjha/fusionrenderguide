@@ -22,7 +22,7 @@ For certain appearances, we can change the roughness to make the part look smoot
 
 ## Changing Reflectance
 
-For certain appearances, we can change the reflectance, which affects the amount of light reflected by the part. The closer the value is to 1, the more reflective and shiny it becomes. Likewise, a value closer to 0 will decrease the reflectiveness.
+For certain appearances, we can change the reflectance, which affects the amount of light reflected by the part. The higher the value, the more reflective and shiny it becomes, and vice versa.
 
 ![Timing belt pulley set to &quot;Plastic - Glossy \(Blue\)&quot; with reflectance increasing from left to right \(0.015, 0.053 \(default\), and 0.08 respectively\)](../.gitbook/assets/pull.png)
 
