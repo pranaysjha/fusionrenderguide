@@ -21,6 +21,7 @@
   * [Named Views](rendering-and-exporting/named-views.md)
   * [Constrained Orbits](rendering-and-exporting/constrained-orbits.md)
   * [Post-Processing](rendering-and-exporting/post-processing.md)
+  * [Exporting/Saving Renders](rendering-and-exporting/exporting-saving-renders.md)
   * [Transparent Background](rendering-and-exporting/transparent-background.md)
 * [Render Gallery](render-gallery/README.md)
   * [Full Robot Renders](render-gallery/full-robot-renders.md)

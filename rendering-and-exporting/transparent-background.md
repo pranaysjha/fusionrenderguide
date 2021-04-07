@@ -1,5 +1,5 @@
 ---
-description: How to make renders with transparent backgrounds
+description: Making renders with transparent backgrounds.
 ---
 
 # Transparent Background
