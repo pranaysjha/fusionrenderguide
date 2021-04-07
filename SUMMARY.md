@@ -6,6 +6,7 @@
   * [Assigning Appearances](assigning-appearances/untitled.md)
   * [Commonly Used Appearances](assigning-appearances/commonly-used-appearances.md)
   * [Making Custom Appearances](assigning-appearances/making-custom-appearances.md)
+  * [Emissive Appearances](assigning-appearances/emissive-appearances.md)
   * [Decals](assigning-appearances/decals.md)
   * [Tips and Tricks](assigning-appearances/tips-and-tricks.md)
 * [Scene Settings](scene-settings/README.md)
