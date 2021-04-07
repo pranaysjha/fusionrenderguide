@@ -6,7 +6,7 @@ description: >-
 
 # Commonly Used Appearances
 
-**Metals**
+## **Metals**
 
 {% tabs %}
 {% tab title="Nickel - Satin" %}
@@ -30,7 +30,7 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-**Plastic/Rubber**
+## **Plastic/Rubber**
 
 {% tabs %}
 {% tab title="Acrylic" %}
@@ -54,7 +54,7 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-**Wood**
+## **Wood**
 
 {% tabs %}
 {% tab title="3D Walnut - Glossy" %}
