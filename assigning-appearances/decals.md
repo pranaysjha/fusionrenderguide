@@ -1,8 +1,6 @@
----
-description: Decals are images that can be wrapped around the face of parts.
----
-
 # Decals
+
+Decals are images that can be wrapped around the face of parts. Unlike HDRIs, standard image file types are accepted \(such as png and jpg\). Most of the decals you will need can be found in the [_Decal Library_](https://photos.google.com/share/AF1QipNS1p_h-UilCHEvSoTZNdxclRQBJGjViyh_1pqrRcx0o8R58EYXR95usjRIjo5KHQ?key=OTZDX0daejE2aDhvM1RqcWJCZi1iNks1LWpralVB). 
 
 1. To attach a decal to your model, navigate to the "Insert" menu within the design studio, and select the first option, "Decal", from the drop-down menu.
 
@@ -19,4 +17,6 @@ description: Decals are images that can be wrapped around the face of parts.
 {% hint style="info" %}
 "Chain faces" causes the decal to display on multiple faces which are "chained". While this is possibly desired for some niche usecases, it usually causes the decal to not be mapped properly, often distorting and seemingly clipping through faces.
 {% endhint %}
+
+
 
