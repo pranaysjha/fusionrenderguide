@@ -54,10 +54,10 @@ Final render quality should always be selected during cloud renders, with a reso
 {% tab title="Local Rendering" %}
 **Local Rendering**
 
-Local rendering is one of two options for creating final renders that are high resolution and high quality. Cloud renders are prefered over local renders in almost every situation as local renders will take longer, load your local machine, and cannot be run in parallel. If for some reason, the Autodesk rendering servers are failing, this would be the rendering option to use for creating a final render.
+Local rendering is one of two options for creating final renders that are high resolution and high quality. Cloud renders are preferred over local renders in almost every situation as local renders will take longer, load your local machine, and cannot be run in parallel. If for some reason, the Autodesk rendering servers are failing, this would be the rendering option to use for creating a final render.
 
 {% hint style="warning" %}
-Local rendering is generally not recommended in most cases unless you have a high-end computer and 
+Local rendering is generally not recommended in most cases unless you have a high-end computer.
 {% endhint %}
 
 In addition to local renders being generally much less convenient, the post-processing features of cloud renders are unavailable in local renders.

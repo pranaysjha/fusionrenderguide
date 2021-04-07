@@ -19,6 +19,7 @@
 * [Rendering and Exporting](rendering-and-exporting/README.md)
   * [In-Canvas vs. Cloud vs. Local Rendering](rendering-and-exporting/cloud-vs.-local-rendering.md)
   * [Named Views](rendering-and-exporting/named-views.md)
+  * [Constrained Orbits](rendering-and-exporting/constrained-orbits.md)
   * [Post-Processing](rendering-and-exporting/post-processing.md)
   * [Transparent Background](rendering-and-exporting/transparent-background.md)
 * [Render Gallery](render-gallery/README.md)
