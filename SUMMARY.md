@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Getting Started](getting-started.md)
 * [Appearances](assigning-appearances/README.md)
   * [Assigning Appearances](assigning-appearances/untitled.md)
   * [Commonly Used Appearances](assigning-appearances/commonly-used-appearances.md)
