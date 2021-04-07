@@ -34,7 +34,7 @@ The In-Canvas Render can be paused by pressing the pause button at the lower rig
 {% tab title="Cloud Rendering" %}
 **Cloud Rendering**
 
-Cloud rendering is one of two options for creating final renders that are high resolution and high quality. While local rendering can be utilized to achieve a virtually exact output as cloud rendering, cloud renders are done on the Autodesk servers, allowing you to run multiple renders in parallel with no load on your computer.
+Cloud rendering is one of two options for creating final renders that are high resolution and high quality. While local rendering can be utilized to achieve a virtually exact output as cloud rendering, cloud renders are done on the Autodesk servers, allowing you to run multiple renders in parallel with no load on your computer. 
 
 1. Click on the teapot icon to open the rendering menu, selecting "cloud render".
 
@@ -54,11 +54,15 @@ Final render quality should always be selected during cloud renders, with a reso
 {% tab title="Local Rendering" %}
 **Local Rendering**
 
-Local rendering is one of two options for creating final renders that are high resolution and high quality. Cloud renders are preffered over local renders in almost every situation as local renders will take longer, load your local machine, and cannot be run in parallel. If for some reason, the Autodesk rendering servers are failing, this would be the rendering option to use for creating a final render.
+Local rendering is one of two options for creating final renders that are high resolution and high quality. Cloud renders are prefered over local renders in almost every situation as local renders will take longer, load your local machine, and cannot be run in parallel. If for some reason, the Autodesk rendering servers are failing, this would be the rendering option to use for creating a final render.
 
-{% hint style="info" %}
-In addition to local renders being generally much less convienient, the post-processing features of cloud renders are unavalible in local renders.
+{% hint style="warning" %}
+Local rendering is generally not recommended in most cases unless you have a high-end computer and 
 {% endhint %}
+
+In addition to local renders being generally much less convenient, the post-processing features of cloud renders are unavailable in local renders.
+
+#### How to Render Locally
 
 1. Click on the teapot icon to open the rendering menu, selecting "local render".
 
