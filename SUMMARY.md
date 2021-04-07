@@ -13,6 +13,7 @@
   * [Background](scene-settings/background.md)
   * [HDRIs](scene-settings/hdris.md)
   * [Lighting](scene-settings/lighting.md)
+  * [Perspective vs Orthographic](scene-settings/perspective-vs-orthographic.md)
   * [Depth of Field](scene-settings/depth-of-field.md)
   * [Focal Length](scene-settings/focal-length.md)
   * [Aspect Ratio](scene-settings/aspect-ratio.md)
