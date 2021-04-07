@@ -12,6 +12,8 @@ You can switch between color background and environment background through the s
 
 ![Switching between solid color and environment](../.gitbook/assets/1831886c1a7e45b96a82dba5623272e7.gif)
 
+### Changing the Background Color
+
 While the default background is a light gray, this can be changed by clicking the on the color palette icon, choosing a new color, and selecting "Apply".
 
 ![Changing the color of the background](../.gitbook/assets/91404dc1ab5dbd03ffcd568208094635.gif)
