@@ -36,7 +36,21 @@ The saturation value controls the intensity of the colors in the render, with a 
 
 ![Adjusting the saturation of the render](../.gitbook/assets/700ffef3dabae838ea4e7d8a0aa98624.gif)
 
+## Color Correction
+
+The color correction slider can be used to adjust the white point of the render, or the color temperature of the main light source. Values below 6500 \(default\) will result in a colder-lit image with more blue hues, and values above 6500 will result in a warmer-lit image with more orange hues.
+
+![Adjusting the white point of the render](../.gitbook/assets/8996796e5a366ddcee18efa7dbb7f6f8.gif)
+
 ## Bloom
 
 Bloom is used in renders with emissive appearances to control the manifestation of bloom, a post-processing setting that mimics real-world photography of objects emitting a large amount of light.
+
+{% hint style="info" %}
+For there to be any bloom in the render, the bloom amount and bloom width multiplier must be a non-zero value.
+
+For robot renders, a small bloom amount and bloom width will give a more photorealistic look to the emissive materials.
+{% endhint %}
+
+![Adjusting the bloom in a render with emissive materials](../.gitbook/assets/1787fd583c3ab5d415d8d953de493e8b.gif)
 
