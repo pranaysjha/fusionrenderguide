@@ -4,5 +4,5 @@
 
 ![Appearances are set correctly, but colors need to be adjusted.](../.gitbook/assets/web-capture_6-4-2021_225056_media.discordapp.net.jpeg)
 
-* Instead of navigating to the "Appearances" tab, you can press the "A" key on your keyboard. This is one of the most useful keyboard shortcuts to know.
+* Instead of navigating to the "Appearances" tab, you can press the "A" key on your keyboard. This is one of the most useful keyboard shortcuts to know when rendering.
 
