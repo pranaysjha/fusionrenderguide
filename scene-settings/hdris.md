@@ -32,6 +32,8 @@ Fusion 360 comes with a few built-in HDRIs which can serve as decent backgrounds
 
 To apply the HDRI, all you have to do is either drag the environment into the scene or double-click it.
 
+### Using a Custom HDRI
+
 Searching for HDRIs is a bit more complicated than searching for regular images online. Moreover, most of the ones on the internet are not free to use. Fortunately, there are sites such as [HDRI Haven](http://hdrihaven.com/) that you can download free HDRIs from. You can find a few other sites on the [Other Resources](https://renders360.gitbook.io/ftc-rendering-in-fusion-360/other-resources) page.
 
 Here are some of our favorite HDRIs:
@@ -50,4 +52,8 @@ After downloading the HDRI, you must import it into Fusion in order to use it. Y
 ![Attaching a custom HDRI](../.gitbook/assets/af65b5c5886d68e72816a68d4865b9bd.gif)
 
 To apply the HDRI, all you have to do is either drag the environment into the scene or double-click it.
+
+### Positioning the HDRI environment
+
+After your HDRI is applied, you may want to reposition it. In the _Scene Settings_ tab, there is an option to adjust the environment "position". Here, you can rotate the entire environment around the pivot point. 
 

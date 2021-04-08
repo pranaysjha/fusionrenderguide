@@ -20,13 +20,15 @@ While not commonly used, emissive appearances can provide additional lighting to
 
 ### Adjusting the Luminance
 
-Much like the brightness of the scene can be adjusted, the brightness of emissive materials can be adjusted. Adjusting the brightness to a proper level can be hard without running [In-Canvas Renders ](../rendering-and-exporting/cloud-vs.-local-rendering.md)to check the current look of the render in real time.
+Much like the brightness of the scene can be adjusted, the brightness of emissive materials can be adjusted. Adjusting the brightness to a proper level can be hard without running ****[**In-Canvas Renders** ](../rendering-and-exporting/cloud-vs.-local-rendering.md)to check the current look of the render in real time.
 
 ![Adjusting the luminance of the emmisive appearance](../.gitbook/assets/259bb55f78638aa38362227cb3509c8b.gif)
 
 ### Post-Processing
 
-Unlike renders without emissive materials, the rendered output often looks off, with additional work needed to achieve the desired look. The [post-processing](../rendering-and-exporting/post-processing.md) page covers this in detail, but consider adding some bloom, decreasing exposure, and increasing the prominence of shadows.
+Unlike renders without emissive materials, the rendered output often looks off, with additional work needed to achieve the desired look. The [**post-processing**](../rendering-and-exporting/post-processing.md) page covers this in detail, but consider adding some bloom, decreasing exposure, and increasing the prominence of shadows.
 
 ![Raw render output \(left\); post-processed render \(right\)](../.gitbook/assets/untitled-drawing-25-.png)
+
+
 
