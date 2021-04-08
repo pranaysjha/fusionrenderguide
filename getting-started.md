@@ -10,7 +10,7 @@ If you already have your CAD file ready-to-go in Fusion 360, you can skip direct
 
 Once you have a CAD model that you would like to render, export it as a .STEP file. This process will vary depending on what software you used.
 
-### Onshape:
+### Onshape
 
 ![](.gitbook/assets/unknown-2-.png)
 
