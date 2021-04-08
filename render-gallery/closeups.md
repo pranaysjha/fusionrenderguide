@@ -4,7 +4,7 @@ description: 'A couple of closeup renders, highlighting attention to detail.'
 
 # Closeups
 
-![FTC Team 10355 differential swerve concept \(check out the depth of field!\)](../.gitbook/assets/atomic_pcoc_colorscheme.png)
+![FTC Team 10355 differential swerve concept](../.gitbook/assets/atomic_pcoc_colorscheme.png)
 
 ![OpenOdometry in goBILDA channel](../.gitbook/assets/inchannel-top.png)
 
