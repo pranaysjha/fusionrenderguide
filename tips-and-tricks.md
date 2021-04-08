@@ -8,7 +8,7 @@
 
 ## Tables
 
-Creating a table and placing your robot or parts on it in your renders can add another level of depth and realism to your renders. A simple extruded sketch with a wood appearance is all that is needed for this. You can refer to [Commonly Used Appearances](https://renders360.gitbook.io/ftc-rendering-in-fusion-360/assigning-appearances/commonly-used-appearances) for some of the wood appearances that we like to use.
+Creating a table and placing your models on it in your renders can add another level of depth and realism to your renders. A simple extruded sketch with a wood appearance is all that is needed for this. You can refer to [Commonly Used Appearances](https://renders360.gitbook.io/ftc-rendering-in-fusion-360/assigning-appearances/commonly-used-appearances) for some of the wood appearances that we like to use.
 
 ![A simple rectangular prism with the &quot;3D Maple - Glossy&quot; appearance](.gitbook/assets/tabul.png)
 
