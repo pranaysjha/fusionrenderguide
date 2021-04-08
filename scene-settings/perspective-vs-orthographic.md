@@ -24,3 +24,5 @@ Orthographic preserves 2D geometric properties, keeping angles and relative dime
 {% endtab %}
 {% endtabs %}
 
+Lastly, _Perspective with Ortho Faces_ is a combination of the two; most of the camera angles will result in perspective renders. When the camera is pointed directly at a face \(e.g. front and top\), it becomes orthographic. 
+
