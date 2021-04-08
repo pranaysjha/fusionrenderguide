@@ -20,7 +20,7 @@ While not commonly used, emissive appearances can provide additional lighting to
 
 ### Adjusting the Luminance
 
-Much like the brightness of the scene can be adjusted, the brightness of emissive materials can be adjusted. Adjusting the brightness to a proper level can be hard without running ****[**In-Canvas Renders** ](../rendering-and-exporting/cloud-vs.-local-rendering.md)to check the current look of the render in real time.
+Much like the brightness of the scene can be adjusted, the brightness of emissive materials can be adjusted. Adjusting the brightness to a proper level can be hard without running ****[**In-Canvas Renders** ](../rendering-and-exporting/cloud-vs.-local-rendering.md)to check the current look of the render in real-time.
 
 ![Adjusting the luminance of the emmisive appearance](../.gitbook/assets/259bb55f78638aa38362227cb3509c8b.gif)
 
