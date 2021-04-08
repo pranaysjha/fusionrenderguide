@@ -14,5 +14,9 @@ Creating a table and placing your models on it in your renders can add another l
 
 ![FTC 10497 Ultimate Goal robot rendered by FTC 15887, which includes a table](.gitbook/assets/nicrobit8.png)
 
+## "Custom" Lighting
+
+
+
 
 
