@@ -14,5 +14,5 @@ When approaching the lower extremes of the focal length, it often distorts the m
 
 ![Changing the focal length of the camera](../.gitbook/assets/2597870220f7aeedab6040dea8c53d07.gif)
 
-![Mecanum Render by 18219 with a decreased focal length](../.gitbook/assets/mecanumpinkangled.png)
+![FTC Team 18219 mecanum drivetrain with a decreased focal length](../.gitbook/assets/mecanumpinkangled.png)
 
