@@ -1,12 +1,11 @@
 ---
 description: >-
   These appearances closely mimic the appearances of parts commonly found in FTC
-  robots.
+  robots. Feel free to adjust some of the properties of the appearances to make
+  your own custom appearances!
 ---
 
 # Commonly Used Appearances
-
-Note: these are simply suggestions. Feel free to experiment with the properties of the appearances to make your own custom appearances!
 
 ## **Metals**
 
