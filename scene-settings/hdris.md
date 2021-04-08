@@ -4,7 +4,7 @@ description: 'A critical part of your render: what is behind the robot.'
 
 # Background
 
-## Solid Color vs. Environment
+## Solid Color vs Environment
 
 Solid color and environment are two options for the background of your render, with solid color making the background a customizable color, and environment setting the background to the selected HDRI \(covered in the HDRI section below\).
 
