@@ -18,5 +18,9 @@ If you notice that your exposure is marginally too high or low after rendering, 
 2. Drag the brightness slider until the colors are neither too washed out nor too dark/shadowy. 
 3. Repeat this process, but adjust the values in smaller increments. Feel free to spend time playing around with the sliders until you find a balanced medium\(the results are worth it\).
 
+The render below features a render where the exposure value is too low, causing some of the metallic appearances to appear washed.
+
+![Example of a render with poor exposure](../.gitbook/assets/example_gobilda_strafer_integration_2021-apr-08_05-20-30am-000_customizedview30327061668_png.png)
+
 
 
