@@ -16,6 +16,8 @@ The post-processing menu is accessed by first opening up the desired render, and
 
 Exposure is essentially the amount of light in the image, or the relative darkness/lightness of the render. Often renders come out slightly dark, so **decreasing** the exposure value will increase the brightness of the image, and **increasing** the exposure value will decrease the brightness of the image.
 
+For more information, you can refer to the [**Lighting section**](../scene-settings/lighting.md#exposure)**.**
+
 ![Adjusting the exposure of a render](../.gitbook/assets/cbdd1e232141c52b60faea5ec59c15f6.gif)
 
 {% hint style="info" %}
