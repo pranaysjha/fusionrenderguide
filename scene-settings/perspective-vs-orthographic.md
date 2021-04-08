@@ -6,7 +6,7 @@ description: What are the two main camera types and which one should I use?
 
 Perspective and Orthographic are two camera types that define the perspective of objects within the frame.
 
-**TLDR: Use perspective for all isometric renders, use orthographic for orthographically positioned renders.**
+TLDR: Use perspective for all isometric renders, use orthographic for orthographically positioned renders.
 
 ![Switching between orthographic and perspective in the scene settings tab](../.gitbook/assets/ee6cdd70304e61dc6e51e359d9f151d9.gif)
 
