@@ -14,13 +14,13 @@ In the "Appearances" tab, we can right-click on an appearance and hit "Edit" to 
 
 ![Using the sliders to change the roughness and reflectance of the appearance](../.gitbook/assets/slidurr.gif)
 
-## Changing Roughness
+### Changing Roughness
 
 For certain appearances, we can change the roughness to make the part look smoother or rougher \(a higher value means more rough\).
 
 ![goBILDA channel set to &quot;Aluminum - Anodized \(Red\)&quot; with roughness decreasing from left to right \(0.75, 0.35, and 0.122 \(default\) respectively\)](../.gitbook/assets/roughness.png)
 
-## Changing Reflectance
+### Changing Reflectance
 
 For certain appearances, we can change the reflectance, which affects the amount of light reflected by the part. The higher the value, the more reflective and shiny it becomes, and vice versa.
 
