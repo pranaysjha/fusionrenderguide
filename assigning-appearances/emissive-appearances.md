@@ -10,7 +10,7 @@ While not commonly used, emissive appearances can provide additional lighting to
 
 ### Changing the Emission Color
 
-1. While changing the emission color is not as straight forwards as changing the color of a standard appearance, it is still fairly simple. The color should be changed in all 3 places shown below to have the proper coloring.
+1. While changing the emission color is not as straightforward as changing the color of a standard appearance, it is still fairly simple. The color should be changed in all 3 places shown below to have the proper coloring.
 
 ![Changing the base color](../.gitbook/assets/19b170edaa38fe7d62e739d2c1fb239c.gif)
 
