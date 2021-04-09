@@ -4,9 +4,9 @@ description: A great way to stylize renders.
 
 # Depth of Field
 
-Depth of field is a setting that can be enabled and adjusted to achieve a blurred effect, much like the focus of a camera, where objects in the foreground or background are out of focus. Depth of field is great for highlighting parts of a render, such as an up close render, or blurring out the HDRI background to mimic the focus of a camera and hide the imperfections of the HDRI.
+_Depth of Field_ is a setting that can be enabled and adjusted to achieve a blurred effect, much like the focus of a camera, where objects in the foreground or background are out of focus. _Depth of Field_ is great for highlighting parts of a render, such as an up close render, or blurring out the HDRI background to mimic the focus of a camera and hide the imperfections of the HDRI.
 
-In the scene settings tab, enable the depth of field checkbox, select the center of focus, and adjust the blur.
+In the scene settings tab, enable the _Depth of Field_ checkbox, select the center of focus, and adjust the blur.
 
 {% hint style="info" %}
 The center of focus is placed in 3D space, so you may have to rotate the camera to achieve the proper depth.
