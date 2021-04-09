@@ -6,9 +6,11 @@ description: >-
 
 # Subsystem Renders
 
-![FTC 15887 Compact Tetrix Drivetrain](../.gitbook/assets/jerseybot3%20%281%29.png)
+![FTC 17456 Atlantis Ultimate Goal Intake](../.gitbook/assets/intake1trans.png)
 
 ![FTC 16439 AlphaGo Ultimate Goal Turret](../.gitbook/assets/turret.jpg)
 
-![VCC 72 Intake](../.gitbook/assets/intake.png)
+![CDC 974 Drivetrain](../.gitbook/assets/dt_powertrain_top_view.png)
+
+![VCC 72 2020 Intake](../.gitbook/assets/intake.png)
 

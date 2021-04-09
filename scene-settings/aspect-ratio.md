@@ -12,3 +12,5 @@ Always use the aspect ratio you will be rendering in when preparing your render 
 
 ![Changing the aspect ratio](../.gitbook/assets/b8a574aacaa383b0a9aa3b71ae8a65e1.gif)
 
+![A final render in 16:9 aspect ratio](../.gitbook/assets/straferaspect.png)
+

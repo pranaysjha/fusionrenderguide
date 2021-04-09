@@ -12,5 +12,7 @@ description: Some fantastic full robot renders made by the FTC community in Fusi
 
 ![FTC Team 10355 Ultimate Goal](../.gitbook/assets/persephone_rendering_1.png)
 
+![FTC 17456 Atlantis Ultimate Goal Robot](../.gitbook/assets/atmanrobit.png)
+
 
 
