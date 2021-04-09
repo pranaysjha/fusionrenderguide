@@ -46,13 +46,13 @@ Unlike many of the other appearances, the solid wood appearances contain a few u
 
 In the example below, these sliders are adjusted to improve upon the current settings and create a wood appearance that more closely matches the desired look.
 
-![Adjusting the parameters of 3D Maple - Glossy](../.gitbook/assets/6e73d80746bf3c9ac5bde2b5028104c4.gif)
+![Adjusting the parameters of &quot;3D Maple - Glossy&quot;](../.gitbook/assets/6e73d80746bf3c9ac5bde2b5028104c4.gif)
 
 ## Creating New Appearances
 
 While often adjusting existing appearances works well for creating the desired look, there are often times where a completely new appearance would achieve a much better result.
 
-There are 3 main ways to create a custom appearance: importing the texture source image, importing the bump map source image, and importing the cutout source image. These 3 aspects will be covered in two examples below.
+There are three main ways to create a custom appearance: importing the texture source image, importing the bump map source image, and importing the cutout source image. These three aspects will be covered in two examples below.
 
 ### Texture Source Image
 
