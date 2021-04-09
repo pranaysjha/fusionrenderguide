@@ -14,3 +14,5 @@ description: Additional resources to aid your renders.
 
 [**Winnie's Website**](https://sites.google.com/view/wilsonrenderstables/resources?authuser=0) \(assorted resources\)
 
+[**Justin's Rendering Guide**](https://bit.ly/renderguide) \(quickstart to rendering\)
+
