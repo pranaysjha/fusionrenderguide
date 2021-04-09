@@ -55,7 +55,7 @@ To apply the HDRI, all you have to do is either drag the environment into the sc
 
 ### Positioning the HDRI environment
 
-After your HDRI is applied, you may want to reposition it. In the _Scene Settings_ tab, there is an option to adjust the environment _position_. Here, you can rotate the entire environment around the pivot point. 
+After your HDRI is applied, you may want to reposition it. In the _Scene Settings_ tab, there is an option to adjust the environment _Position_. Here, you can rotate the entire environment around the pivot point. 
 
 ![Repositioning the HDRI](../.gitbook/assets/273a87107de0212a0fbada5a135dedc8.gif)
 
