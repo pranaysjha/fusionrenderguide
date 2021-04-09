@@ -6,7 +6,7 @@ description: Sometimes the default appearances just don't cut it.
 
 ## Editing Existing Appearances
 
-In the "Appearances" tab, we can right-click on an appearance and hit "Edit" to alter its properties, including color, roughness, and reflectance.
+In the _Appearances_ tab, we can right-click on an appearance and hit _Edit_ to alter its properties, including color, roughness, and reflectance.
 
 ![Opening the &quot;Edit&quot; menu for &quot;Aluminum - Satin&quot;](../.gitbook/assets/957ccecf89eeca52c7a9926838348a7e.gif)
 
