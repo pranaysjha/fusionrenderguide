@@ -8,3 +8,5 @@ description: >-
 
 ![FTC 15887 Compact Tetrix Drivetrain](../.gitbook/assets/jerseybot3%20%281%29.png)
 
+![FTC 16439 AlphaGo Ultimate Goal Turret](../.gitbook/assets/turret.jpg)
+
