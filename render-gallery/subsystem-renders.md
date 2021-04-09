@@ -10,7 +10,7 @@ description: >-
 
 ![FTC 16439 AlphaGo Ultimate Goal Turret](../.gitbook/assets/turret.jpg)
 
-![CDC 974 Drivetrain](../.gitbook/assets/dt_powertrain_top_view.png)
+![Caravan Design Challenge 974 Drivetrain](../.gitbook/assets/dt_powertrain_top_view.png)
 
-![VCC 72 2020 Intake](../.gitbook/assets/intake.png)
+![Valor CAD Challenge 72 2020 Intake](../.gitbook/assets/intake.png)
 
