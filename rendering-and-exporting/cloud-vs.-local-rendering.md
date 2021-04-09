@@ -43,7 +43,7 @@ Cloud rendering is one of two options for creating final renders that are high r
 2. Select the aspect ratio, render quality, and resolution of the render.
 
 {% hint style="info" %}
-Final render quality should always be selected during cloud renders, with a resolution above 1080p being used.
+Final render quality should always be selected during cloud renders, with a resolution of 1080p being used.
 {% endhint %}
 
 ![Selecting the cloud render settings](../.gitbook/assets/d9e88044a698d350dfb39e34c219bab3.gif)
