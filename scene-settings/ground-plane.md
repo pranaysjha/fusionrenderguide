@@ -10,7 +10,7 @@ A ground plane is not needed if you are using a three-dimensional table or other
 
 ### Flatten Ground
 
-The _Flatten Ground_ option "stretches" out the ground plane by a certain amount. This is dependent on the _Ground Scale,_ which you can adjust by selecting the **Position** icon. Be careful when using this, however. An improperly-scaled ground plane will mess up the HDRI, as seen below.
+The _Flatten Ground_ option _stretches_ out the ground plane by a certain amount. This is dependent on the _Ground Scale,_ which you can adjust by selecting the **Position** icon. Be careful when using this, however. An improperly-scaled ground plane will mess up the HDRI, as seen below.
 
 {% hint style="warning" %}
 If you are using a table or other similar surface, make sure that _Flatten Ground_ isn't selected. Unless you know what you're doing, it is highly recommended that you stay away from this. 

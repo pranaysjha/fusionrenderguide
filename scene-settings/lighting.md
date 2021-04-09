@@ -6,6 +6,8 @@ Lighting is a very important aspect of rendering that can either make or break y
 
 Adjusting the brightness of the render simply changes how light or dark the scene is. Increasing the brightness will lighten both the light and darker areas; likewise, decreasing the brightness will darken the lights and darks. In Fusion, the brightness is measured in lux \(lx\). The default render brightness is 1000lx, which is generally the sweet spot for the majority of renders. However, this is affected by several factors such as the HDRI environment, the exposure, and the rendering angle. 
 
+![Adjusting the brightness](../.gitbook/assets/893f7bca5323c4f693fcf3fa82b3cf0a.gif)
+
 ### Exposure
 
 Exposure and brightness are two terms that are often interchanged; however, this is not correct. Unlike brightness, the exposure affects the highlights and tones with a bit more bias. It's a bit more complicated; however, you can follow the steps below to find the optimal intermediate of the brightness and exposure. Exposure is measured in _Exposure Value_ \(EV\) and unlike adjusting the brightness, a smaller exposure value lightens the image and a higher value darkens it.
