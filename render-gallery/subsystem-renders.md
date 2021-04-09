@@ -10,3 +10,5 @@ description: >-
 
 ![FTC 16439 AlphaGo Ultimate Goal Turret](../.gitbook/assets/turret.jpg)
 
+![VCC 72 Intake](../.gitbook/assets/intake.png)
+
