@@ -6,7 +6,7 @@ description: Appearances determine the physical look of components and bodies.
 
 Assigning appearances to components is one of the most time-consuming parts of the rendering process. However, the process is pretty straightforward.
 
-1. Navigate to the "Appearance" tab \(or press the "A" key\).
+1. Navigate to the _Appearance_ tab \(or press the _A_ key\).
 
 ![Navigating to the &quot;Appearance&quot; tab](../.gitbook/assets/pls.gif)
 
