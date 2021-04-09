@@ -47,7 +47,7 @@ It is recommended that you download the 4K or 8K versions of the HDRI. However, 
 
 ### Attaching a Custom HDRI
 
-After downloading the HDRI, you must import it into Fusion in order to use it. You can do so by navigating to "Scene Settings" and then selecting the "Environment Library". Scroll down and select the folder icon next to the words "Attach Custom Environment".
+After downloading the HDRI, you must import it into Fusion in order to use it. You can do so by navigating to _Scene_ _Settings_ and then selecting the _Environment Library_. Scroll down and select the folder icon next to the words _Attach Custom Environment_.
 
 ![Attaching a custom HDRI](../.gitbook/assets/af65b5c5886d68e72816a68d4865b9bd.gif)
 
@@ -55,5 +55,5 @@ To apply the HDRI, all you have to do is either drag the environment into the sc
 
 ### Positioning the HDRI environment
 
-After your HDRI is applied, you may want to reposition it. In the _Scene Settings_ tab, there is an option to adjust the environment "position". Here, you can rotate the entire environment around the pivot point. 
+After your HDRI is applied, you may want to reposition it. In the _Scene Settings_ tab, there is an option to adjust the environment _position_. Here, you can rotate the entire environment around the pivot point. 
 
