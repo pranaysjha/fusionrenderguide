@@ -8,6 +8,7 @@
   * [Making Custom Appearances](assigning-appearances/making-custom-appearances.md)
   * [Emissive Appearances](assigning-appearances/emissive-appearances.md)
   * [Decals](assigning-appearances/decals.md)
+  * [Texture Map Controls](assigning-appearances/texture-map-controls.md)
 * [Scene Settings](scene-settings/README.md)
   * [Background](scene-settings/hdris.md)
   * [Ground Plane](scene-settings/ground-plane.md)
