@@ -14,3 +14,9 @@ To access the texture map controls, right-click on an object with a texture appl
 While in the gif above the texture is repositioned and rotated semi-randomly, take note that simply selecting the box projection type aligned the texture with the field tile model properly.
 {% endhint %}
 
+{% hint style="info" %}
+Going further with the field tile texture mapping:
+
+Currently, the orientation of all the texture tiles is the same as it is being linearly patterned, but to achieve an effect where tiles are not all in the same orientation make the tiles independent from one another and use the texture map controls on each tile individually to pick an angle.
+{% endhint %}
+
