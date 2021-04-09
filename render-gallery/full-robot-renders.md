@@ -12,7 +12,7 @@ description: Some fantastic full robot renders made by the FTC community in Fusi
 
 ![FTC Team 10355 Ultimate Goal](../.gitbook/assets/persephone_rendering_1.png)
 
-![](../.gitbook/assets/novav4compress_v1_2021-apr-09_05-49-39am-000_customizedview11135886478_png.png)
+![FTC Team 17456 Ultimate Goal](../.gitbook/assets/novav4compress_v1_2021-apr-09_05-49-39am-000_customizedview11135886478_png.png)
 
 
 
