@@ -14,7 +14,7 @@ You can switch between color background and environment background through the s
 
 ### Changing the Background Color
 
-While the default background is a light gray, this can be changed by clicking the on the color palette icon, choosing a new color, and selecting "Apply".
+While the default background is a light gray, this can be changed by clicking the on the color palette icon, choosing a new color, and selecting _Apply_.
 
 ![Changing the color of the background](../.gitbook/assets/91404dc1ab5dbd03ffcd568208094635.gif)
 
@@ -26,7 +26,7 @@ HDRIs, or High Dynamic Range Images, are essentially three-dimensional images th
 
 ### Using a Built-In HDRI
 
-Fusion 360 comes with a few built-in HDRIs which can serve as decent backgrounds and lighting data for your render. To switch the HDRI being utilized, navigate to "Scene Settings" and then select the "Environment Library" tab. From here there are a list of built-in HDRIs.
+Fusion 360 comes with a few built-in HDRIs which can serve as decent backgrounds and lighting data for your render. To switch the HDRI being utilized, navigate to _Scene Settings_ and then select the _Environment Library_ tab. From here there are a list of built-in HDRIs.
 
 ![Changing the current HDRI](../.gitbook/assets/5b686c499bace3e6d63424be6912ad1c.gif)
 
