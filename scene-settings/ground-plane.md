@@ -1,12 +1,10 @@
 # Ground Plane
 
-Ground planes are the 
+A ground plane is the horizontal plane that represents the ground or bottom surface of a space. Ground planes are very useful when rendering because without one, the object in focus appears to be floating \(which may be desired in some instances\). 
 
 {% hint style="info" %}
 A ground plane is not needed if you are using a three-dimensional table or other surface. The table will act as the ground plane, making it unnecessary. If this is the case, uncheck the _Ground Plane_ box. 
 {% endhint %}
-
-### 
 
 ### Flatten Ground
 
