@@ -1,6 +1,6 @@
 # Tips and Tricks
 
-* When assigning appearances to a robot with colors that are hard to distinguish from each other, it is best to separate each appearance by setting it to a vibrant color and changing it afterwards. For example, Team 9's robot in the CCC was mostly dark; as such the appearances were first set like below and then converted to shades of black and gray.
+When assigning appearances to a robot with colors that are hard to distinguish from each other, it is best to separate each appearance by setting it to a vibrant color and changing it afterwards. For example, Team 9's robot in the CCC was mostly dark; as such the appearances were first set like below and then converted to shades of black and gray.
 
 ![Appearances are set correctly, but colors need to be adjusted.](.gitbook/assets/web-capture_6-4-2021_225056_media.discordapp.net.jpeg)
 
@@ -16,11 +16,11 @@ Creating a table and placing your models on it in your renders can add another l
 
 ## "Custom" Lighting
 
-Sometimes, the [**HDRI**](scene-settings/hdris.md#hdris) or environment you are using just doesn't focus enough light on a certain area, no matter how much you rotate it. If this is the case, you can try creating "_Custom_" _Lighting._ This is done by creating three-dimensional bodies in an area that will not be visible in the render \(usually above the camera's position\) and applying an emissive appearance to them. 
+Sometimes, the [**HDRI**](scene-settings/hdris.md#hdris) or environment you are using just doesn't focus enough light on a certain area, no matter how much you rotate it. If this is the case, you can try creating "custom" lighting_._ This is done by creating three-dimensional bodies in an area that will not be visible in the render \(usually above the camera's position\) and applying an emissive appearance to them. 
 
-![Extruding a 2-dimensional sketch to create &quot;Custom&quot; lighting](.gitbook/assets/df58e39d07b395ae4d3ec0c3e3ea20a7%20%282%29.gif)
+![Extruding a 2-dimensional sketch to create &quot;custom&quot; lighting](.gitbook/assets/df58e39d07b395ae4d3ec0c3e3ea20a7%20%282%29.gif)
 
-![Result of adding &quot;Custom&quot; Lighting with a yellowish emissive appearance](.gitbook/assets/example-gobilda-strafer-integration-v13%20%281%29.png)
+![Result of adding &quot;custom&quot; lighting with a yellowish emissive appearance](.gitbook/assets/example-gobilda-strafer-integration-v13%20%281%29.png)
 
 
 
