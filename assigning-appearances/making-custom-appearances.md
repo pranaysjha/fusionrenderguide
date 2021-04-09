@@ -107,6 +107,6 @@ The cutout is both much too large and inverted, but these issues can be easily f
 ![Inverting the cutout and scaling it](../.gitbook/assets/8c7fe13c8eb85715b056bb2e1ba7becc.gif)
 
 {% hint style="info" %}
-A similar process as the one demonstrated in this example can be used to achieve a wire sleeving appearance.
+A similar process as the one demonstrated in this example can be used to achieve a wire sleeve appearance.
 {% endhint %}
 
