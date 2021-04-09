@@ -4,7 +4,7 @@ description: How to save your great renders to your computer.
 
 # Exporting/Saving Renders
 
-After doing local or cloud renders, your completed renders will appear in the "Rendering Gallery" tab at the bottom of the render workspace.
+After doing local or cloud renders, your completed renders will appear in the _Rendering Gallery_ tab at the bottom of the render workspace.
 
 ![Accessing the rendering gallery](../.gitbook/assets/image.png)
 
