@@ -20,5 +20,5 @@ Below is an example of a render that used a solid green background before export
 
 After your render has finished, click on the render and select the _Download_ icon. Here, you can slide the switch so that _Transparent Background_ is selected and then select the desired file type you wish to save the render as.
 
-![Selecting the Transparent Background option](../.gitbook/assets/screenshot-2021-04-07-090835.png)
+![Selecting the &quot;Transparent Background&quot; option](../.gitbook/assets/screenshot-2021-04-07-090835.png)
 
