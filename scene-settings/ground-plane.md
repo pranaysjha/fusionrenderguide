@@ -6,6 +6,8 @@ A ground plane is the horizontal plane that represents the ground or bottom surf
 A ground plane is not needed if you are using a three-dimensional table or other surface. The table will act as the ground plane, making it unnecessary. If this is the case, uncheck the _Ground Plane_ box. 
 {% endhint %}
 
+![Adding a ground plane makes this drivetrain look like it is resting on a surface](../.gitbook/assets/460b553c4c37dfc2dfbc08501e2496f9.gif)
+
 ### Flatten Ground
 
 The _Flatten Ground_ option _stretches_ out the ground plane by a certain amount. This is dependent on the _Ground Scale,_ which you can adjust by selecting the **Position** icon. Be careful when using this, however. An improperly-scaled ground plane will mess up the HDRI, as seen below.

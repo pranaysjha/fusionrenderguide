@@ -16,7 +16,7 @@ Creating a table and placing your models on it in your renders can add another l
 
 ## "Custom" Lighting
 
-
+Sometimes, the HDRI or environment you are using just doesn't focus enough light on a certain area, no matter how much you rotate it. If this is the case, you can try creating "Custom" Lighting. 
 
 
 
