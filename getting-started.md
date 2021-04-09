@@ -1,5 +1,5 @@
 ---
-description: What to do before rendering
+description: What to do before rendering.
 ---
 
 # Getting Started
