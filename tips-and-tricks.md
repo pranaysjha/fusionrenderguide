@@ -16,7 +16,11 @@ Creating a table and placing your models on it in your renders can add another l
 
 ## "Custom" Lighting
 
-Sometimes, the HDRI or environment you are using just doesn't focus enough light on a certain area, no matter how much you rotate it. If this is the case, you can try creating "Custom" Lighting. 
+Sometimes, the [**HDRI**](scene-settings/hdris.md#hdris) or environment you are using just doesn't focus enough light on a certain area, no matter how much you rotate it. If this is the case, you can try creating "_Custom_" _Lighting._ This is done by creating three-dimensional bodies in an area that will not be visible in the render \(usually above the camera's position\) and applying an emissive appearance to them. 
+
+ 
+
+![Result of adding &quot;Custom&quot; Lighting with a yellowish emissive appearance](.gitbook/assets/example-gobilda-strafer-integration-v13.png)
 
 
 
