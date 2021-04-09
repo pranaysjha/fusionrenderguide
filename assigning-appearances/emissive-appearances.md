@@ -6,7 +6,7 @@ description: >-
 
 # Emissive Appearances
 
-While not commonly used, emissive appearances can provide additional lighting to the scene and highlight certain parts of the render. Emissive appearances can be accessed through the "Miscellaneous" and then "Emissive" folders of the appearance menu.
+While not commonly used, emissive appearances can provide additional lighting to the scene and highlight certain parts of the render. Emissive appearances can be accessed through the _Miscellaneous_ and then _Emissive_ folders of the appearance menu.
 
 ### Changing the Emission Color
 
