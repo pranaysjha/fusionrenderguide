@@ -16,7 +16,7 @@ The _Flatten Ground_ option "stretches" out the ground plane by a certain amount
 If you are using a table or other similar surface, make sure that _Flatten Ground_ isn't selected. Unless you know what you're doing, it is highly recommended that you stay away from this. 
 {% endhint %}
 
-![CAD by FTC 11115](../.gitbook/assets/steven2.png)
+![FTC 11115 automatic ball turret](../.gitbook/assets/steven2.png)
 
 ### Reflections
 
