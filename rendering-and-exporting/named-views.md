@@ -10,7 +10,7 @@ Much like the standard view angles on the view cube \(top, left, right, bottom, 
 
 ![Setting the camera position to be stored](../.gitbook/assets/db43dd19262ebc3bf71c50b1f4ccb4a5.gif)
 
-2. Right click on the "Named Views" menu within the browser tree and select "New Named View".
+2. Right click on the _Named Views_ menu within the browser tree and select _New Named View_.
 
 ![Creating a new named view](../.gitbook/assets/2b7d1c1ec96969948405e69fc377c5af.gif)
 
