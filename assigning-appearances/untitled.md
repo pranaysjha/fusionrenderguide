@@ -12,7 +12,7 @@ Assigning appearances to components is one of the most time-consuming parts of t
 
    2. Locate the desired appearance in the drop-down. You can search in the search box using keywords, or you can also navigate for the appearance using the folders. 
 
-![Make sure you are in the &quot;Fusion 360 Appearances&quot; tab. Otherwise, you may not see them!](../.gitbook/assets/0ebe7295a67f20646c5dbb739d8f229c.gif)
+![Make sure you are in the &quot;Fusion 360 Appearances&quot; tab. Otherwise, you may not see them!](../.gitbook/assets/0ebe7295a67f20646c5dbb739d8f229c%20%281%29.gif)
 
     3. Drag and drop the appearance on the appropriate component. 
 

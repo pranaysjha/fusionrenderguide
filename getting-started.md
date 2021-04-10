@@ -1,5 +1,5 @@
 ---
-description: What to do before rendering.
+description: What to do before rendering
 ---
 
 # Getting Started
@@ -16,7 +16,7 @@ The next step is importing it into Fusion, which is a simple process. Select _Op
 
 After this, you can open the drop-down menu in the top left-hand corner and switch from the _Design_ tab to the _Render_ tab_._
 
-![Switching from the &quot;Design&quot; tab to the &quot;Render&quot; tab](.gitbook/assets/111db609143c32e89d5b730e336504b6-1-%20%282%29.gif)
+![Switching from the &quot;Design&quot; tab to the &quot;Render&quot; tab](.gitbook/assets/111db609143c32e89d5b730e336504b6-1-%20%281%29%20%282%29.gif)
 
 You are now ready for the next step!
 

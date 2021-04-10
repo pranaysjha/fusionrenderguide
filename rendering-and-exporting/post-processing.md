@@ -23,7 +23,7 @@ For more information, you can refer to the [**Lighting section**](../scene-setti
 {% hint style="info" %}
 Keep in mind that changing the exposure will alter colors \(e.g., the background color will no longer be what it was set to\).
 
-Keep exposure values between 8.5 and 10.5, otherwise it gets extremely washed out out or dark.
+Keep exposure values between 8.5 and 10.5, otherwise, it gets extremely washed out or dark.
 {% endhint %}
 
 ## Color Preset

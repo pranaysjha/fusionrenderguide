@@ -14,7 +14,7 @@ Perspective and Orthographic are two camera types that define the perspective of
 {% tab title="Perspective" %}
 Perspective view displays object with realistic depth, making closer objects appear larger, and farther away objects appear smaller. While this gives the correct depth perception of the objects, it strips away any geometric squareness and scaling.
 
-![A perspective render, scaling objects based on depth](../.gitbook/assets/perspective.png)
+![A perspective render, scaling objects based on depth](../.gitbook/assets/straferaspect%20%281%29.png)
 {% endtab %}
 
 {% tab title="Orthographic" %}
