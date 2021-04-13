@@ -18,6 +18,10 @@ If you are using a table or other similar surface, make sure that _Flatten Groun
 
 ![FTC 11115 automatic ball turret](../.gitbook/assets/steven2.png)
 
+_Flatten ground_  is a useful feature when you want the robot to rest on the ground plane of the HDRI, as seen below. The HDRI must be properly scaled or else your robot may look like it is floating. Or, another technique that is in the render below is adding a heavy depth of field to mask an HDRI that isn't scaled perfectly.
+
+![FTC 18253 Ultimate Goal Robot rendered by FTC 18219](../.gitbook/assets/image%20%282%29.png)
+
 ### Reflections
 
 The _Reflections_ option allows for the CAD model to be reflected onto the ground plane. How much it is reflected depends on the roughness, which can be any number between 0 and 1. A roughness closer to 0 will result in a more reflective ground plane, while a roughness closer to 1 will result in a less reflective and more rough ground plane.
