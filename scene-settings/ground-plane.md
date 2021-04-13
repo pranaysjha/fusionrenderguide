@@ -26,3 +26,5 @@ _Flatten ground_  is a useful feature when you want the robot to rest on the gro
 
 The _Reflections_ option allows for the CAD model to be reflected onto the ground plane. How much it is reflected depends on the roughness, which can be any number between 0 and 1. A roughness closer to 0 will result in a more reflective ground plane, while a roughness closer to 1 will result in a less reflective and more rough ground plane.
 
+![FTC 9614 Ultimate Goal Robot with a reflective ground plane](../.gitbook/assets/9614.png)
+
