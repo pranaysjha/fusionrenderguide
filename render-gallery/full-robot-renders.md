@@ -14,5 +14,5 @@ description: Some fantastic full robot renders made by the FTC community in Fusi
 
 ![FTC 17456 Ultimate Goal](../.gitbook/assets/novav4compress_v1_2021-apr-09_05-49-39am-000_customizedview11135886478_png.png)
 
-
+![FTC 13356 Ultimate Goal](../.gitbook/assets/am-4301_ultimate_goal_full_game_set_and_field_2021-apr-17_05-25-37pm-000_customizedview21298960481_jpg.jpg)
 

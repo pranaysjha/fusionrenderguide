@@ -14,3 +14,5 @@ description: 'A couple of closeup renders, highlighting attention to detail.'
 
 ![FTC 9614 Hyperion Odometry](../.gitbook/assets/less_cringe_odopod_2020-jul-13_10-42-47pm-000_customizedview23768982014_jpg.jpg)
 
+![FTC 13356 Ultimate Goal Intake](../.gitbook/assets/full_robot__assembly_2021-apr-19_06-19-56am-000_customizedview14731967143_jpg.jpg)
+
