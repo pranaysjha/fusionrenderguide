@@ -18,5 +18,5 @@ Decals are images that can be wrapped around the face of parts. Unlike HDRIs, st
 The _Chain faces_ option causes the decal to display on multiple faces which are "chained". While this could be desirable for some niche use cases, it usually causes the decal to not be mapped properly, often distorting and seemingly clipping through faces.
 {% endhint %}
 
-![Ultimate Goal shooter with motor decals by FTC 16537 rendered by 15887](../.gitbook/assets/shootamoturr.png)
+![Ultimate Goal shooter with motor decals by FTC 16537 rendered by 18246](../.gitbook/assets/shootamoturr.png)
 
